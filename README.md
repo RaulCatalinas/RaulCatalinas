@@ -30,6 +30,9 @@ A friendly desktop app for downloading videos from YouTube. Built for simplicity
 ### [HuskyBC](https://github.com/RaulCatalinas/HuskyBC)
 A command-line tool for easy Husky configuration. Make your Git hooks setup a breeze!
 
+### [ReadmeCraft](https://github.com/RaulCatalinas/ReadmeCraft)
+🛠️ Cross-platform desktop app for creating professional README.md files with smart templates and real-time preview
+
 ---
 
 ## 🎨 Let's Connect!
