@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I'm an enthusiastic self-taught programmer with a 
 - 💻 **Programming Languages:**  
   - Python (my strongest, still learning more!)
   - TypeScript  
-  - Just started with Go!  
+  - Just started with Go!
+  - Just started with Dart!
 
 - 🌎 **Languages:**  
   My native language is Spanish, and I’m working on improving my English!
@@ -29,6 +30,9 @@ A friendly desktop app for downloading videos from YouTube. Built for simplicity
 
 ### [HuskyBC](https://github.com/RaulCatalinas/HuskyBC)
 A command-line tool for easy Husky configuration. Make your Git hooks setup a breeze!
+
+###[LogKeeper](https://github.com/RaulCatalinas/LogKeeper)
+Simple file logger that works out of the box with automatic timestamping and session management
 
 ---
 
