@@ -31,7 +31,7 @@ A friendly desktop app for downloading videos from YouTube. Built for simplicity
 ### [HuskyBC](https://github.com/RaulCatalinas/HuskyBC)
 A command-line tool for easy Husky configuration. Make your Git hooks setup a breeze!
 
-###[LogKeeper](https://github.com/RaulCatalinas/LogKeeper)
+### [LogKeeper](https://github.com/RaulCatalinas/LogKeeper)
 Simple file logger that works out of the box with automatic timestamping and session management
 
 ---
