@@ -34,6 +34,9 @@ A command-line tool for easy Husky configuration. Make your Git hooks setup a br
 ### [LogKeeper](https://github.com/RaulCatalinas/LogKeeper)
 Simple file logger that works out of the box with automatic timestamping and session management
 
+### [Flutter Theme Manager](https://github.com/RaulCatalinas/Flutter-Theme-Manager)
+A simple, plug-and-play theme management library for Flutter with automatic persistence and zero configuration required.
+
 ---
 
 ## 🎨 Let's Connect!
