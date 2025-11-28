@@ -25,6 +25,9 @@ Welcome to my GitHub profile! I'm an enthusiastic self-taught programmer with a 
 
 ## 🛠️ Projects
 
+### [ClearCrash](https://github.com/RaulCatalinas/ClearCrash)
+Transform cryptic Android crash logs into clear, human-readable error messages with root causes and fixes. Plug-and-play, zero config required.
+
 ### [EasyViewer](https://github.com/RaulCatalinas/EasyViewer)
 A friendly desktop app for downloading videos from YouTube. Built for simplicity and ease of use.
 
