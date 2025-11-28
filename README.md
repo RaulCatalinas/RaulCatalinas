@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm an enthusiastic self-taught programmer with a 
 - 💻 **Programming Languages:**  
   - Python (my strongest, still learning more!)
   - TypeScript  
-  - Just started with Go!
+  - Just started with Kotlin!
   - Just started with Dart!
 
 - 🌎 **Languages:**  
