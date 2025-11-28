@@ -40,6 +40,9 @@ Simple file logger that works out of the box with automatic timestamping and ses
 ### [Flutter-Themed](https://github.com/RaulCatalinas/Flutter-Theme-Manager)
 A simple, plug-and-play theme management library for Flutter with automatic persistence and zero configuration required.
 
+### [README-Builder](https://github.com/RaulCatalinas/README-Builder)
+Create professional README files in minutes. Simple form-based interface for developers who want great documentation without the hassle.
+
 ---
 
 ## 🎨 Let's Connect!
