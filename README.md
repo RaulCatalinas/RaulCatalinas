@@ -52,7 +52,7 @@ A user-friendly desktop application for downloading videos from YouTube.
 A simple tool to generate professional README files using a form-based interface.  
 **Key feature:** Quickly create polished READMEs without manual formatting.
 
-**Technologies:** Flutter, Dart
+**Technologies:** Flutter, Dart  
 **Status:** In development
 
 ---
